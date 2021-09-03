@@ -12,8 +12,10 @@
 
 ## Screenshot result
 
-1. Desktop
-   ![](./images/result-desktop.png)
+### Desktop
 
-1. Mobile
-   ![](./images/result-mobile.png)
+![](./images/result-desktop.png)
+
+### Mobile
+
+![](./images/result-mobile.png)
