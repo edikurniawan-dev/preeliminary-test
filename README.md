@@ -8,7 +8,7 @@
 
 ## This HTML page is online with URL address
 
-[https://kurniawanedi.github.io/preeliminary-test/](https://kurniawanedi.github.io/preeliminary-test/)
+[https://edikurniawan-dev.github.io/preeliminary-test/](https://edikurniawan-dev.github.io/preeliminary-test/)
 
 ## Screenshot result
 
